@@ -1,19 +1,27 @@
-#include <unistd.h>
-#include "holberton.h"
+int _putchar(char c);
 
-/**
- * main - Check description
- * Description: It prints the word Holberton, followed by a new line.
- * Return: 0.
- */
-int main(void)
-{
-	char word[9] = "Holberton";
-	int i;
+void print_alphabet(void);
 
-	for (i = 0; i < 9; i++)
-		_putchar(word[i]);
-	_putchar('\n');
+void print_alphabet_x10(void);
 
-	return (0);
-}
+int _islower(int c);
+
+int _isalpha(int c);
+
+int print_sign(int n);
+
+int _abs(int r);
+
+int print_last_digit(int r);
+
+void jack_bauer(void);
+
+void times_table(void);
+
+int add(int a, int b);
+
+void print_to_98(int n);
+
+void print_times_table(int n);
+
+void putformat(int);
