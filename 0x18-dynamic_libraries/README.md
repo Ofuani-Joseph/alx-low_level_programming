@@ -25,4 +25,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Pilar Pinto** - [PilarPinto](https://github.com/PilarPinto)
+* **Ofuani Joseph** - [Joseph-Ofuani](https://github.com/Joseph-Ofuani)
